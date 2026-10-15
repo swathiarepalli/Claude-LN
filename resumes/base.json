@@ -1,0 +1,87 @@
+{
+  "name": "Swathi Arepalli",
+  "summary": "Generalist strategy leader with 11+ years at Accenture Strategy, EY-Parthenon and Deloitte and an INSEAD MBA. Advises C-suites in telecom, infrastructure, financial services and consumer businesses on corporate and growth strategy, product and portfolio rationalisation, partnerships, carve-outs and digital positioning. Has restructured multi-entity telecom businesses, built organic and inorganic growth plans that lifted enterprise value, designed loyalty and customer insight programmes and set the long-term strategic direction for digital channels. Turns ambiguous questions into clear recommendations, crafts the narratives C-suites decide on and leads cross-functional teams to deliver them.",
+  "contact": {
+    "email": "swathiarepalli@hotmail.com",
+    "phone": "+91 88868 88015",
+    "location": "Bengaluru, India",
+    "linkedin": "linkedin.com/in/swathiarepalli"
+  },
+  "skills": [
+    "Corporate & Growth Strategy",
+    "Product & Portfolio Rationalisation",
+    "Partnerships & New Revenue",
+    "Carve-Outs & Entity Restructuring",
+    "Digital Strategy & Positioning",
+    "Customer Loyalty & Retention",
+    "Customer Insight & VoC",
+    "Organic & Inorganic Growth",
+    "M&A & Due Diligence",
+    "Business Cases & Financial Models",
+    "C-Suite Narratives",
+    "Cross-Functional Leadership"
+  ],
+  "education": [
+    {"degree": "Master of Business Administration", "school": "INSEAD, Fontainebleau, France", "years": "2023 – 2024"},
+    {"degree": "B.Tech, Electronics & Communication Engineering", "school": "Bapatla Engineering College, India", "years": "2009 – 2013"}
+  ],
+  "languages": [
+    {"name": "English", "level": "Full professional proficiency"},
+    {"name": "Telugu", "level": "Native proficiency"},
+    {"name": "Hindi", "level": "Full professional proficiency"}
+  ],
+  "certifications": [
+    {"name": "Project Management Professional (PMP)", "issuer": "Project Management Institute"},
+    {"name": "Financial Modelling & Valuation Analyst", "issuer": "Corporate Finance Institute"},
+    {"name": "Generative AI for C-Suite Leaders", "issuer": "INSEAD"},
+    {"name": "Blue Ocean Strategy", "issuer": "INSEAD Blue Ocean Strategy Institute"},
+    {"name": "Microsoft Azure Cloud Certification", "issuer": "Microsoft"}
+  ],
+  "experience": [
+    {
+      "title": "Team Leader, Strategy Consulting – Corporate Strategy, Portfolio & Partnerships",
+      "company": "Accenture Strategy & Consulting",
+      "dates": "Aug 2024 – Present",
+      "location": "Bengaluru, India",
+      "bullets": [
+        "Rationalised the product portfolio of a leading regional telco across 10 entities into a coherent set of segments and identified partnership strategies that opened new revenue streams for the group.",
+        "Led the carve-out of a telecom operator with 13+ consolidated entities into separate B2C, B2B, ICT and wholesale segments, defining the target structure and the path to get there.",
+        "Built the growth strategy for an infrastructure client by selecting between organic and inorganic options and reshaping the corporate strategy, lifting enterprise value by close to 30% and setting revenue growth of 25% to 30%.",
+        "Set the long-term strategic direction and market positioning for a B2B client's digital portal by reviewing the platform, redefining how customers should interact with it and proposing the enhancements needed to compete.",
+        "Designed a customer loyalty programme that raised retention, deepened customer understanding and improved frontline team performance.",
+        "Created a CX Sensor that structures customer reviews, filters out noise and surfaces the feedback that matters so the business can act on it."
+      ]
+    },
+    {
+      "title": "Senior Consultant, Strategy – Product Strategy, Market Entry & Growth",
+      "company": "EY-Parthenon",
+      "dates": "Apr 2019 – Sep 2023",
+      "location": "Bengaluru, India",
+      "bullets": [
+        "Sized the opportunity and built the business plan for a $50M consumer market entry across Indonesia, Malaysia, Thailand and the Philippines that won board approval.",
+        "Developed a 5-year portfolio strategy for a $3B consumer products company that rationalised 25% of SKUs and prioritised 3 growth platforms behind a +180 bps margin plan.",
+        "Reset pricing, channel mix and trade incentives for a personal care brand which lifted modern trade share by 4 points and revenue by 12% in 12 months."
+      ]
+    },
+    {
+      "title": "Consultant, Strategy – M&A, Due Diligence & Digital Strategy",
+      "company": "Deloitte USI",
+      "dates": "Oct 2017 – Apr 2019",
+      "location": "Bengaluru, India",
+      "bullets": [
+        "Benchmarked 15 fintech platforms to shape a digital growth strategy that secured executive committee approval for a $30M investment roadmap.",
+        "Built the integration plan for two merging banks across 40+ workstreams and quantified $60M in cost synergies.",
+        "Executed buy-side commercial due diligence on transactions valued between $200M and $2B."
+      ]
+    },
+    {
+      "title": "Business Analyst – Market Research & Competitive Intelligence",
+      "company": "Tata Consultancy Services",
+      "dates": "Jan 2014 – Oct 2017",
+      "location": "Bengaluru, India",
+      "bullets": [
+        "Delivered 30+ market sizing and competitor studies for Fortune 500 technology and banking clients that informed pricing, launch and investment decisions."
+      ]
+    }
+  ]
+}
